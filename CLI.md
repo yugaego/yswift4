@@ -2,6 +2,12 @@ Basic
 ---
 `$ swift --version`  
 
+REPL
+---
+`$ swift` - launch  
+`:help` - list available LLDB commands  
+`:q` - quit
+
 Packages
 ---
 `$ swift package init` - create dir structure  
@@ -27,3 +33,4 @@ Resources
   * https://swift.org/getting-started/
   * https://github.com/apple/swift-package-manager
   * https://github.com/apple/swift-lldb
+  * https://stackoverflow.com/questions/30777110/how-do-i-quit-swift-repl-without-using-ctrl-d
